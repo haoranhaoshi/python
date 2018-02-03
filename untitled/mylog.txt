@@ -1,0 +1,4 @@
+log:Fatal error:invalid input
+log:Fatal error:invalid input
+log:Fatal error:invalid input
+log:Fatal error:invalid input
